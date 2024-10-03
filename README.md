@@ -9,5 +9,5 @@ Theme is very nice. <br> You can add task and delete them.
 <br><br><br>
 Here's a glimpse of my project..<3 <br><br>
   
-![todolist](https://github.com/user-attachments/assets/10056ac6-012b-420c-bd8e-8c78ed86c4f7))
+![todolist](https://github.com/user-attachments/assets/10056ac6-012b-420c-bd8e-8c78ed86c4f7)
 
