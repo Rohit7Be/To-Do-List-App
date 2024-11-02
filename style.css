@@ -117,3 +117,9 @@ button:hover{
     border: 3px solid indianred;
     transition: 150ms;
 }
+
+@media (max-width: 768px){
+    .row input{
+        width: 2rem;
+    }
+}
