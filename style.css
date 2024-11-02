@@ -122,4 +122,8 @@ button:hover{
     .row input{
         width: 2rem;
     }
+    *{
+        font-family: sans-serif;
+    }
+    
 }
